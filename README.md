@@ -4,3 +4,4 @@
 - Open another terminal in visual studio code
 - cd FoodTest and type npx expo start (might need to install additional dependencies if the command fails)
 - Open Expo app on your phone and scan the QR code to access the application
+- For username and password to log in, key in any dummy data
